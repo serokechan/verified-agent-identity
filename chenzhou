@@ -10,7 +10,7 @@ on:
       agent_description:
         description: 'Agent Description'
         required: true
-        default: 'chenzhou'
+        default: 'chenzhou AI Agent'
 
 jobs:
   verify:
